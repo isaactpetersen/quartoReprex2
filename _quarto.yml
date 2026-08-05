@@ -4,24 +4,6 @@ project:
 website:
   title: "Quarto Reprex"
   repo-url: https://github.com/isaactpetersen/quartoReprex2
-  repo-actions: [edit, source, issue]
-  google-analytics: G-0BM7X404RV
-  navbar:
-    title: "Quarto Reprex"
-    search: true
-    tools:
-      - icon: github
-        menu:
-          - text: "Source Code"
-            href: https://github.com/isaactpetersen/quartoReprex2
-          - text: "Report a Bug"
-            href: https://github.com/isaactpetersen/quartoReprex2/issues/new
-    left:
-      - href: index.qmd
-        text: Home
-      - text: "Course Syllabus"
-        href: syllabus.qmd
-      - about.qmd
 
 format:
   html:
@@ -30,5 +12,3 @@ format:
     toc: false
     pdf-standard: ua-2
 
-lightbox: 
-  match: auto
