@@ -2,31 +2,25 @@ project:
   type: website
 
 website:
-  title: "Class Wiki for COURSE NAME (SEMESTER YEAR)"
-  repo-url: https://github.com/isaactpetersen/Course-Wiki-Template
+  title: "Quarto Reprex"
+  repo-url: https://github.com/isaactpetersen/quartoReprex2
   repo-actions: [edit, source, issue]
   google-analytics: G-0BM7X404RV
   navbar:
-    title: "Class Wiki for COURSE NAME (SEMESTER YEAR)"
+    title: "Quarto Reprex"
     search: true
     tools:
       - icon: github
         menu:
           - text: "Source Code"
-            href: https://github.com/isaactpetersen/Course-Wiki-Template
+            href: https://github.com/isaactpetersen/quartoReprex2
           - text: "Report a Bug"
-            href: https://github.com/isaactpetersen/Course-Wiki-Template/issues/new
+            href: https://github.com/isaactpetersen/quartoReprex2/issues/new
     left:
       - href: index.qmd
         text: Home
       - text: "Course Syllabus"
         href: syllabus.qmd
-      - text: "Miscellaneous"
-        menu:
-        - text: I Think I Might Need Some Help...
-          href: help.qmd
-        - text: Opportunity to Join My Research Lab!
-          href: devpsylab.qmd
       - about.qmd
 
 format:
