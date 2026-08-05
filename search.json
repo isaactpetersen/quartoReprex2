@@ -7,101 +7,10 @@
     "text": "The Class Wiki includes the course syllabus and miscellaneous resources.\n\n\n\n\n\nReuseCC BY 4.0"
   },
   {
-    "objectID": "devpsylab.html#our-mission",
-    "href": "devpsylab.html#our-mission",
-    "title": "Get Involved in Research with the Developmental Psychopathology Lab!",
-    "section": "1.1 Our Mission",
-    "text": "1.1 Our Mission\nWe are striving to improve the health and well-being of families and communities by conducting research to advance the understanding of human development."
-  },
-  {
-    "objectID": "devpsylab.html#current-study",
-    "href": "devpsylab.html#current-study",
-    "title": "Get Involved in Research with the Developmental Psychopathology Lab!",
-    "section": "1.2 Current Study",
-    "text": "1.2 Current Study\nTo accomplish our mission, we are are currently conducting the School Readiness Study. The School Readiness Study is a longitudinal study that follows children from 3–7 years of age to better understand how self-regulation and externalizing problems develop, from a bio-psycho-social perspective. In this project, we place special emphasis on the development of neural functioning, as measured by electroencephalography/event-related potentials (EEG/ERP), and how neural development influences the development of children’s self-regulation and externalizing problems. EEG is a method of measuring meaningful differences in children’s self-regulation through ERPs—EEG activity that occurs in response to stimuli—which may be a powerful way of reliably detecting patterns of brain activity that predict behavioral outcomes."
-  },
-  {
-    "objectID": "devpsylab.html#gain-experience",
-    "href": "devpsylab.html#gain-experience",
-    "title": "Get Involved in Research with the Developmental Psychopathology Lab!",
-    "section": "2.1 Gain Experience:",
-    "text": "2.1 Gain Experience:\n\nBuild skills working with children in a research setting\nOberve and analyze parent–child interactions\nAdminister tasks and standardized assessments\nAnalyze scientific articles and lead discussions\nPrepare for post-undergrad life/education"
-  },
-  {
-    "objectID": "devpsylab.html#explore-opportunities",
-    "href": "devpsylab.html#explore-opportunities",
-    "title": "Get Involved in Research with the Developmental Psychopathology Lab!",
-    "section": "2.2 Explore Opportunities:",
-    "text": "2.2 Explore Opportunities:\n\nPursue independent projects\nSpecialize in working with children and data management\nLearn coding languages and/or video software"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About This Website",
-    "section": "",
-    "text": "This website was generated with Quarto. The codebase that was used to generate the Class Wiki is located here.\n\n1 License\n\n\nCC BY 4.0\n\nThis work is licensed under a Creative Commons Attribution 4.0 International License.\n\n\nCC BY 4.0\n\n\n2 Session Info\n\nCodesessionInfo()\n\nR version 4.6.1 (2026-06-24)\nPlatform: x86_64-pc-linux-gnu\nRunning under: Ubuntu 24.04.4 LTS\n\nMatrix products: default\nBLAS:   /usr/lib/x86_64-linux-gnu/openblas-pthread/libblas.so.3 \nLAPACK: /usr/lib/x86_64-linux-gnu/openblas-pthread/libopenblasp-r0.3.26.so;  LAPACK version 3.12.0\n\nlocale:\n [1] LC_CTYPE=C.UTF-8       LC_NUMERIC=C           LC_TIME=C.UTF-8       \n [4] LC_COLLATE=C.UTF-8     LC_MONETARY=C.UTF-8    LC_MESSAGES=C.UTF-8   \n [7] LC_PAPER=C.UTF-8       LC_NAME=C              LC_ADDRESS=C          \n[10] LC_TELEPHONE=C         LC_MEASUREMENT=C.UTF-8 LC_IDENTIFICATION=C   \n\ntime zone: UTC\ntzcode source: system (glibc)\n\nattached base packages:\n[1] stats     graphics  grDevices utils     datasets  methods   base     \n\nloaded via a namespace (and not attached):\n [1] htmlwidgets_1.6.4 compiler_4.6.1    fastmap_1.2.0     cli_3.6.6        \n [5] tools_4.6.1       htmltools_0.5.9   otel_0.2.0        yaml_2.3.12      \n [9] rmarkdown_2.31    knitr_1.51        jsonlite_2.0.0    xfun_0.60        \n[13] digest_0.6.39     rlang_1.3.0       evaluate_1.0.5   \n\n\n\n\n\n\nReuseCC BY 4.0"
-  },
-  {
-    "objectID": "help.html",
-    "href": "help.html",
-    "title": "I Think I Might Need Some Help…",
-    "section": "",
-    "text": "1 Asking for Help\nEveryone needs help sometimes—your classmates, your TAs, and your professor. And YOU. We know that it can be anxiety-provoking to recognize that you need help and to ask for it. And we also know that getting the help we need can make a big difference, both inside and outside the classroom. So, we encourage you to reach out quickly for the help and support that you need!\n\n\n2 I need help with my mental or physical health…\n\nIf you or someone you know is contemplating suicide, either call the Suicide and Crisis Lifeline at 988, or call 911.\nUniversity Counseling Service: https://counseling.uiowa.edu, or 319-335-7294\nStudent Health: https://studentlife.uiowa.edu/departments/student-health, or 319-335-8394\nStudent Wellness: https://studentwellness.uiowa.edu, or 319-335-8394\n\n\n\n3 I need help with academic accommodations…\n\nStudent Disability Services (SDS; https://sds.studentlife.uiowa.edu) is available to help determine what academic accommodations may be available to you (e.g., notes, extra time for exams, scheduling accommodations, etc.).\nYou can apply for student accommodations here: https://sds.studentlife.uiowa.edu/accommodations/apply (call 319-335-1462 or email sds-info@uiowa.edu if questions!).\nWe are happy to provide recommended accommodations as a part of this course, but we need a letter from SDS requesting them.\n\n\n\n4 I’m struggling and thinking about withdrawing…\n\nThe Academic Support and Retention (ASR; https://asr.uiowa.edu) office can work with you and your instructors to generate a retention plan to support your academic success and help you get back on track.\nThe ASR office can be reached at uc-retention@uiowa.edu or (319) 335-1497.\n\n\n\n5 I need help with a crisis or emergency situation…\n\nStudent Care & Assistance (https://dos.uiowa.edu/assistance; 319-335-1162) provides assistance to students experiencing crisis and emergency situations. These situations may include hospitalization, medical emergencies or long-term illness, mental health concerns, chronic conditions, death of a family member, natural disasters, off-campus living concerns, and unexpected events or challenges.\n\n\n\n6 I need help with this class…\nPlease come to Office Hours with one of the TAs or with Professor Petersen. If you can’t attend office hours, please email any of us to arrange a time to meet and discuss how best to help you move forward in the class. We are all eager to talk with you and help you to succeed!\n\n\n\n\n\n\nReuseCC BY 4.0"
-  },
-  {
     "objectID": "syllabus.html",
     "href": "syllabus.html",
     "title": "Course Syllabus",
     "section": "",
-    "text": "Last Updated: 08/05/2026"
-  },
-  {
-    "objectID": "syllabus.html#sec-textbook",
-    "href": "syllabus.html#sec-textbook",
-    "title": "Course Syllabus",
-    "section": "\n10.1 Textbook",
-    "text": "10.1 Textbook\nINSERT"
-  },
-  {
-    "objectID": "syllabus.html#sec-lecture",
-    "href": "syllabus.html#sec-lecture",
-    "title": "Course Syllabus",
-    "section": "\n13.1 Lecture",
-    "text": "13.1 Lecture\nINSERT"
-  },
-  {
-    "objectID": "syllabus.html#sec-discussionSection",
-    "href": "syllabus.html#sec-discussionSection",
-    "title": "Course Syllabus",
-    "section": "\n13.2 Discussion Section",
-    "text": "13.2 Discussion Section\nINSERT"
-  },
-  {
-    "objectID": "syllabus.html#sec-attendanceParticipation",
-    "href": "syllabus.html#sec-attendanceParticipation",
-    "title": "Course Syllabus",
-    "section": "\n13.3 Attendance and Participation",
-    "text": "13.3 Attendance and Participation\nINSERT"
-  },
-  {
-    "objectID": "syllabus.html#sec-readingQuizzes",
-    "href": "syllabus.html#sec-readingQuizzes",
-    "title": "Course Syllabus",
-    "section": "\n13.4 Readings & Quizzes",
-    "text": "13.4 Readings & Quizzes\nINSERT"
-  },
-  {
-    "objectID": "syllabus.html#sec-exams",
-    "href": "syllabus.html#sec-exams",
-    "title": "Course Syllabus",
-    "section": "\n13.5 Examinations",
-    "text": "13.5 Examinations\nINSERT\n\n13.5.1 Missing Exams\nUniversity regulations require that students be allowed to make up examinations that have been missed due to illness, religious holy days, military service obligations (including service-related medical appointments), or other unavoidable circumstances or University-sponsored activities. Students with UI-authorized activities must discuss their absences with the instructor as soon as possible. Religious obligations must be communicated within the first three weeks of classes. See below for the documentation necessary for an absence to be excused and to be eligible to take a make-up exam.\nStudents are allowed to make up exams that have been missed due to illness, mandatory religious observations, official University activities, or other unavoidable circumstances. Note: the format of the make-up exam may differ from the original exam. If you know that you must be away at the time of an exam for one of these reasons, Professor Petersen or the TA must be contacted in advance whenever possible to schedule a make-up exam. In order to take a make-up exam, you must provide acceptable documentation to be eligible to take it: including documentation for any report of illness; any other circumstances must be documented by the University of Iowa Absence Explanation Form (located in Canvas under “Student Tools”) and must be approved by Professor Petersen. In sum, to be eligible for a make-up exam, Professor Petersen or the TA must be contacted before the examination whenever possible, and you must send acceptable form of documentation to Professor Petersen or the TA."
-  },
-  {
-    "objectID": "syllabus.html#sec-complaints",
-    "href": "syllabus.html#sec-complaints",
-    "title": "Course Syllabus",
-    "section": "\n20.1 Student Complaints",
-    "text": "20.1 Student Complaints\nStudents with a complaint about a grade or a related matter should first discuss the situation with the instructor, and finally with the DEO (Chair) of the department, school, or program offering the course. Sometimes students will be referred to the department or program’s Director of Undergraduate Studies (DUS) or Director of Graduate Studies (DGS). [FOR UNDERGRADUATE COURSES:] Students should contact CLAS Undergraduate Programs for support when the matter is not resolved at the previous level. [FOR GRADUATE COURSES:] Students should contact the CLAS Graduate Affairs Manager when additional support is needed."
+    "text": "Last Updated: 08/05/2026\n\n1 Course Title\nCOURSE NUMBER – COURSE NAME (SEMESTER YEAR)\n\n2 Course Meeting Time and Place\nINSERT\n\n3 Course Website\nhttps://uiowa.instructure.com\nTo access the course site, log into Canvas using your Hawk ID and password.\n\n4 Course Home\nThe University of Iowa\nThe College of Liberal Arts and Sciences\nDepartment of Psychological and Brain Sciences\n[FOR UNDERGRADUATE COURSES:] The College of Liberal Arts and Sciences (CLAS) is the home of this course, and CLAS governs the add and drop deadlines, academic misconduct policies, and other policies and procedures. Other UI colleges may have different policies. [FOR GRADUATE COURSES:] The College of Liberal Arts and Sciences (CLAS) is the home of this course, and CLAS governs the policies and procedures for its courses. Graduate students, however, must adhere to the academic deadlines set by the Graduate College.\n\n\n\n\nReuseCC BY 4.0"
   }
 ]
