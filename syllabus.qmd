@@ -1,0 +1,278 @@
+---
+title: "Course Syllabus"
+engine: knitr
+format: 
+  html: default
+  pdf: default
+format-links: true
+---
+
+Last Updated: `r format(Sys.Date(), "%m/%d/%Y")`
+
+# Course Title {#sec-title}
+
+COURSE NUMBER – COURSE NAME (SEMESTER YEAR)
+
+# Course Meeting Time and Place {#sec-lectureTime}
+
+<u>INSERT</u>
+
+# Course Website {#sec-website}
+
+<https://uiowa.instructure.com>
+
+To access the course site, log into [Canvas](https://uiowa.instructure.com) using your Hawk ID and password.
+
+# Course Home {#sec-home}
+
+The University of Iowa\
+The College of Liberal Arts and Sciences\
+Department of Psychological and Brain Sciences
+
+<mark>[FOR UNDERGRADUATE COURSES:] </mark>The College of Liberal Arts and Sciences (CLAS) is the home of this course, and CLAS governs the add and drop deadlines, academic misconduct policies, and other policies and procedures.
+Other UI colleges may have different policies.
+<mark>[FOR GRADUATE COURSES:] </mark>The College of Liberal Arts and Sciences (CLAS) is the home of this course, and CLAS governs the policies and procedures for its courses.
+Graduate students, however, must adhere to the [academic deadlines set by the Graduate College](https://grad.uiowa.edu/academics/deadlines).
+
+# Instructor Contact Information {#sec-instructor}
+
+[Professor Petersen](https://psychology.uiowa.edu/people/isaac-petersen)\
+Office: 175 Psychological and Brain Sciences Building (PBSB)\
+E-mail: [isaac-t-petersen@uiowa.edu](mailto:isaac-t-petersen@uiowa.edu)\
+Office Phone: 467-1014\
+Student drop-in hours: <u>INSERT</u>\
+Note: I'm here to help you learn and succeed.
+Please come to my office hours to ask questions about course material, assignments, exams, or professional development (career-related issues), for instance.
+I welcome you to discuss any concerns you might have about the class.
+I am also available to meet with you by appointment, although I would appreciate your making every effort to see me during office hours.
+The best way to reach me outside of class is by email.
+
+# Departmental Resources {#sec-deptResources}
+
+Department of Psychological and Brain Sciences: <https://psychology.uiowa.edu>\
+Department of Psychological and Brain Sciences Main Office: G60 Psychological and Brain Sciences Building (335-2406)\
+<mark>[FOR UNDERGRADUATE COURSES:] </mark>Coordinator of Undergraduate Studies: Professor Windschitl ([paul-windschitl@uiowa.edu](mailto:paul-windschitl@uiowa.edu); 335-3681)\
+<mark>[FOR GRADUATE COURSES:] </mark>Director of Graduate Studies: Ryan LaLumiere ([ryan-lalumiere@uiowa.edu](mailto:ryan-lalumiere@uiowa.edu); 335-3681)\
+<mark>[FOR UNDERGRADUATE COURSES:] </mark>Academic Coordinator: Janeil Page-Jamison ([janeil-page@uiowa.edu](mailto:janeil-page@uiowa.edu); 384-3657)\
+Departmental Executive Officer (DEO)/Department Chair: Professor Blumberg ([mark-blumberg@uiowa.edu](mailto:mark-blumberg@uiowa.edu); 335-2424)
+
+# Prerequisites {#sec-prereqs}
+
+<u>INSERT</u>
+
+# Description of Course {#sec-description}
+
+<u>INSERT</u>
+
+*You are urged to reconsider your decision to take this class if you are reluctant to examine these topics in a scientific manner.*
+
+# Learning Outcomes {#sec-learningOutcomes}
+
+<u>INSERT</u>
+
+# Required Materials {#sec-materials}
+
+## Textbook {#sec-textbook}
+
+<u>INSERT</u>
+
+# Academic Honesty and Misconduct {#sec-academicHonesty}
+
+All students in CLAS courses are expected to abide by the [college's standards of academic honesty](https://clas.uiowa.edu/students/handbook/academic-fraud-honor-code).
+<mark>[FOR UNDERGRADUATE COURSES:] </mark>Academic misconduct must be reported by instructors to CLAS according to [these procedures](https://policy.clas.uiowa.edu/clas-policies-and-procedures/undergraduate-education/academic-misconduct-undergraduate).
+<mark>[FOR GRADUATE COURSES:] </mark>Academic misconduct must be reported to the Graduate College according to Section F of the [Graduate College Manual](https://grad.uiowa.edu/academics/manual/academic-program/section-iv-academic-standing-probation-and-dismissal).
+
+Please note that collaboration with other classmates on <u>INSERT</u> is not permitted.
+However, I do encourage you to collaborate with classmates on <u>INSERT</u>.
+In addition, you are expected to follow the course's policy on the use of artificial intelligence (AI), which is outlined below.
+
+# Artificial Intelligence (AI) Policy {#sec-ai}
+
+Because writing, analytical, and critical thinking skills are part of the learning outcomes of this course, all work submitted by students should be prepared by the student.
+You are training these cognitive muscles; if you go to the gym, you would not have AI lift the weights for you.
+For these reasons, AI-generated submissions are not permitted and will be treated as plagiarism.
+Learning these core foundational skills will make you a better user of AI in the future, because you will be better-positioned in the future to critically evaluate AI responses and to identify when (and the ways in which) its responses are inaccurate.
+Moreover, in many industries, use of AI is not permitted because you cannot share the company's proprietary information.
+Thus, developing strong competencies in these domains (without the use of AI) will prepare you for a competitive workplace.
+
+# Course Requirements and Policies {#sec-requirements}
+
+## Lecture {#sec-lecture}
+
+<u>INSERT</u>
+
+## Discussion Section {#sec-discussionSection}
+
+<u>INSERT</u>
+
+## Attendance and Participation {#sec-attendanceParticipation}
+
+<u>INSERT</u>
+
+## Readings & Quizzes {#sec-readingQuizzes}
+
+<u>INSERT</u>
+
+## Examinations {#sec-exams}
+
+<u>INSERT</u>
+
+### Missing Exams {#sec-missingExams}
+
+[University regulations require that students be allowed to make up examinations](https://opsmanual.uiowa.edu/students/absences-class) that have been missed due to illness, religious holy days, military service obligations (including service-related medical appointments), or other unavoidable circumstances or University-sponsored activities.
+Students with UI-authorized activities must discuss their absences with the instructor as soon as possible.
+Religious obligations must be communicated within the first three weeks of classes.
+See below for the documentation necessary for an absence to be excused and to be eligible to take a make-up exam.
+
+Students are allowed to make up exams that have been missed due to illness, mandatory religious observations, official University activities, or other unavoidable circumstances.
+Note: the format of the make-up exam may differ from the original exam.
+If you know that you must be away at the time of an exam for one of these reasons, Professor Petersen <mark>or the TA</mark> must be contacted in advance whenever possible to schedule a make-up exam.
+In order to take a make-up exam, you must provide acceptable documentation to be eligible to take it: including documentation for any report of illness; any other circumstances must be documented by the University of Iowa [Absence Explanation Form](https://clas.uiowa.edu/sites/clas.uiowa.edu/files/2024-05/ABSENCE%20EXPLANATION%20FORM.pdf) (located in Canvas under "Student Tools") and must be approved by Professor Petersen.
+<u>In sum, to be eligible for a make-up exam, Professor Petersen <mark>or the TA</mark> must be contacted before the examination whenever possible, and you must send acceptable form of documentation to Professor Petersen <mark>or the TA</mark></u>.
+
+# Grading System and the Use of +/- {#sec-gradingSystem}
+
+<u>INSERT</u>
+
+Final grades will be assigned based on the following ranges:
+
+<u>INSERT</u>
+
+# Course Grades {#sec-courseGrades}
+
+Final course grades will be assessed based on your performance in the activities below.
+The relative contribution of each component to your final grade is as follows:
+
+<u>INSERT</u>
+
+# Tentative Course Outline (exam dates fixed) {#sec-outline}
+
+<u>INSERT</u>
+
+# Date and Time of the Final Exam {#sec-finalExam}
+
+The [final examination date and time](https://registrar.uiowa.edu/final-exam-schedules) will be announced by the Registrar generally by the fifth week of classes, and it will be announced on the course Canvas site once it is known.
+<u>Do not plan your end of the semester travel plans until the final exam schedule is made public.
+It is your responsibility to know the date, time, and place of the final exam.</u>
+According to the Registrar's final exam policy, students <u>have a maximum of two weeks after the announced final exam schedule</u> to request a change if an exam conflict exists or if a student has more than two exams scheduled for the same day (see the [policy](https://registrar.uiowa.edu/makeup-final-examination-policies) here).
+
+# Course Resources {#sec-courseResources}
+
+There are many course resources available to help you succeed in the class, including:
+
+- <u>INSERT</u>
+
+# Drop Deadline for this Course {#sec-dropDeadline}
+
+You may drop an individual course before the drop deadline; after this deadline you will need collegiate approval.
+You can look up the drop deadline for this course [here](https://registrar.uiowa.edu/course-deadlines).
+When you drop a course, a "W" will appear on your transcript.
+The mark of "W" is a neutral mark that does not affect your GPA.
+To discuss how dropping (or staying in) a course might affect your academic goals, please contact your Academic Advisor.
+Directions for adding or dropping a course and other registration changes can be found on the [Registrar's website](https://registrar.uiowa.edu/change-registration-myui).
+<mark>[FOR UNDERGRADUATE COURSES:] </mark>Students can find policies on dropping CLAS courses [here](https://clas.uiowa.edu/students/students-academic-policies/registration-policies#dropping).
+<mark>[FOR GRADUATE COURSES:] </mark>Students should adhere to the [academic deadlines](https://grad.uiowa.edu/academics/deadlines) and policies set by the Graduate College.
+
+# Feedback about the Course {#sec-feedback}
+
+I welcome feedback at any point during the class.
+If you have comments on the class or my teaching, please feel free to meet with me during office hours.
+
+## Student Complaints {#sec-complaints}
+
+Students with a complaint about a grade or a related matter should first discuss the situation with the instructor, and finally with the DEO (Chair) of the department, school, or program offering the course.
+Sometimes students will be referred to the department or program's Director of Undergraduate Studies (DUS) or Director of Graduate Studies (DGS).
+<mark>[FOR UNDERGRADUATE COURSES:] </mark>Students should contact [CLAS Undergraduate Programs](https://clas.uiowa.edu/students/handbook/student-rights-responsibilities#rights) for support when the matter is not resolved at the previous level.
+<mark>[FOR GRADUATE COURSES:] </mark>Students should contact the [CLAS Graduate Affairs Manager](mailto:Erika-christiansen@uiowa.edu) when additional support is needed.
+
+# Communication: UI Email {#sec-email}
+
+Students are responsible for all official correspondences sent to their UI email address (uiowa.edu) and must use this address for any communication with instructors or staff in the UI community.
+For the privacy and the protection of student records, UI faculty and staff can only correspond with UI email addresses.
+
+# Other Expectations of Student Performance {#sec-otherExpectations}
+
+Students have the right to a distraction-free learning environment.
+You have the responsibility to help create such a classroom environment.
+Please treat other students in the class<mark>, the TAs,</mark> and the instructor with respect.
+Students are expected to help each other learn and to contribute overall to the learning environment of the course.
+Arriving prepared for class is part of this expectation.
+
+# University Policies {#sec-UIowaPolicies}
+
+[University Policies](https://provost.uiowa.edu/student-course-policies)
+
+[Accommodations for Students with Disabilities](https://provost.uiowa.edu/student-course-policies)\
+The University is committed to providing an educational experience that is accessible to all students.
+If a student has a diagnosed disability or other disabling condition that may impact the student's ability to complete the course requirements as stated in the syllabus, the student may seek accommodations through [Student Disability Services](https://sds.studentlife.uiowa.edu/students) (SDS).
+SDS is responsible for making [Letters of Accommodation (LOA)](https://sds.studentlife.uiowa.edu/students/letter-accommodations-loa) available to the student.
+<u>The student must provide a LOA to the instructor as early in the semester as possible, but requests not made at least two weeks prior to the scheduled activity for which an accommodation is sought may not be accommodated.</u>
+The LOA will specify what reasonable course accommodations the student is eligible for and those the instructor should provide.
+Additional information can be found on the [SDS website](https://sds.studentlife.uiowa.edu/students/apply).
+
+[Class Recordings](https://provost.uiowa.edu/student-course-policies)\
+Students may be enrolled in a class where some sessions will be recorded or live-streamed.
+Such recordings/streaming will only be available to students registered for the class.
+These recordings are the intellectual property of the instructor and they may not be shared or reproduced without the explicit, written consent of the instructor.
+Further, students may not share these sessions with those not in the class or upload them to any other online environment.
+Doing so would be a breach of the Code of Student Conduct, and, in some cases, a violation of state and federal law, including the Federal Education Rights and Privacy Act (FERPA).
+
+The unauthorized video or audio recording of academic activities (e.g., lectures, course discussions, office hours, etc.) by a student is prohibited.
+Students with a reasonable accommodation for recording approved by Student Disability Services should notify each instructor and provide the Letter of Accommodation prior to using the accommodation.
+A student may record classroom activities with prior written permission from the instructor and notice to other students in the class that audio or video recording may occur.
+Any and all classroom recording must be for personal academic use only.
+The distribution, sharing, sale, or posting of recordings on the internet (including social media), in whole or in part, is prohibited and doing so may be a violation of the Code of Student Life and/or state or federal privacy, copyright, or other laws.
+
+- [Free Speech and Expression](https://provost.uiowa.edu/student-course-policies)
+- [Non-Discrimination](https://provost.uiowa.edu/student-course-policies)
+- [Accommodations for Students with Disabilities](https://provost.uiowa.edu/student-course-policies)
+- [Absences from Class](https://provost.uiowa.edu/student-course-policies)
+- [Absences for Religious Holy Days](https://provost.uiowa.edu/student-course-policies)
+- [Absences for Military Service Obligations](https://provost.uiowa.edu/student-course-policies)
+- [Classroom Expectations](https://provost.uiowa.edu/student-course-policies)
+- [Sexual Harassment/Misconduct and Supportive Measures](https://provost.uiowa.edu/student-course-policies)
+- [Conflict Resolution](https://provost.uiowa.edu/student-course-policies)
+- [Mental Health](https://provost.uiowa.edu/student-course-policies)
+- [Basic Needs and Student Support](https://provost.uiowa.edu/student-course-policies)
+- [Class Recordings](https://provost.uiowa.edu/student-course-policies)
+
+# Where to Get Academic Support for This Course {#sec-academic-support}
+
+- Drop-in study groups and one-on-one tutoring: student drop-in hours of the <mark>undergraduate TA, graduate TA, and</mark> instructor
+- Formal tutoring: Tutor Iowa: <https://tutor.uiowa.edu>
+- UI Writing Center: <https://writingcenter.uiowa.edu>
+- Academic accommodations: <https://sds.studentlife.uiowa.edu>
+
+# Mental Health Resources and Student Support {#sec-mental-health}
+
+Students are encouraged to be mindful of their mental health and seek help as a preventive measure or if feeling overwhelmed and/or struggling to meet course expectations.
+Students are encouraged to talk to their instructor for assistance with specific class-related concerns.
+For additional support and counseling, students are encouraged to contact University Counseling Service (UCS).
+Information about UCS, including resources and how to schedule an appointment, can be found at [counseling.uiowa.edu](http://counseling.uiowa.edu).
+Find out more about UI mental health services at: [mentalhealth.uiowa.edu](http://mentalhealth.uiowa.edu), including the 24-7 [UI Support and Crisis Line](https://mentalhealth.uiowa.edu/ui-support-and-crisis-line).
+
+Additionally, the Office of the Dean of Students can help students navigate personal crisis situations.
+They can provide one-on-one support, help with identifying options, and access to [basic needs resources (such as food, rent, childcare, etc.)](http://basicneeds.uiowa.edu).
+Student Care and Assistance: 132 IMU, [dos-assistance@uiowa.edu](mailto:dos-assistance@uiowa.edu), or 319-335-1162 and more info: [dos.uiowa.edu/assistance](https://dos.uiowa.edu/assistance)
+
+If you feel that you or someone you know may be struggling with an academic, emotional, or psychological problem, the following organizations are available for assistance:
+
+| Service                                                                    | Contact Info                                                       |
+|:---------------------------------------------------------------------------|:-------------------------------------------------------------------|
+| University of Iowa Academic Advising Center                                | 353-5700, <https://advisingcenter.uiowa.edu>                       |
+| University Counseling Services                                             | 335-7294, <https://www.uiowa.edu/ucs>                              |
+| Student Health Service - Mental Health                                     | 335-8394, <https://studenthealth.uiowa.edu/services/psychiatry>    |
+| University of Iowa Hospitals and Clinics Adult Psychiatry Services Clinic  | 353-6314, <https://www.uihealthcare.org/Psychiatry>                |
+| Seashore Clinic (in the UI Department of Psychological and Brain Sciences) | 335-2467, <https://psychology.uiowa.edu/resources/seashore-clinic> |
+| Women's Resource and Action Center                                         | 335-1486, <https://wrac.uiowa.edu>                                 |
+| Rape Victim Advocacy Program                                               | 319-335-6000 or 800-228-1625, <https://www.uiowa.edu/~rvap>        |
+| Office of Sexual Misconduct                                                | 319-335-6200, <https://osmrc.uiowa.edu>                            |
+| CommUnity                                                                  | 855-325-4296, <https://builtbycommunity.org/crisis>                |
+| Community & Family Resources                                               | 351-4357, <https://www.cfrhelps.org>                               |
+
+<u>If you or someone you know is contemplating suicide</u>, either call or text the Suicide and Crisis Lifeline at 988, or call 911.
+
+# Disclaimer {#sec-disclaimer}
+
+This syllabus is subject to change.
+Any changes will be discussed in class, via email, and/or on Canvas.
