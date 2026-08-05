@@ -1,5 +1,5 @@
 ---
-title: "Course Syllabus"
+title: "Syllabus"
 engine: knitr
 format: 
   html: default
@@ -7,29 +7,6 @@ format:
 format-links: true
 ---
 
-Last Updated: `r format(Sys.Date(), "%m/%d/%Y")`
+This is a [cross-reference link](index.qmd).
 
-# Course Title {#sec-title}
-
-COURSE NUMBER – COURSE NAME (SEMESTER YEAR)
-
-# Course Meeting Time and Place {#sec-lectureTime}
-
-<u>INSERT</u>
-
-# Course Website {#sec-website}
-
-<https://uiowa.instructure.com>
-
-To access the course site, log into [Canvas](https://uiowa.instructure.com) using your Hawk ID and password.
-
-# Course Home {#sec-home}
-
-The University of Iowa\
-The College of Liberal Arts and Sciences\
-Department of Psychological and Brain Sciences
-
-<mark>[FOR UNDERGRADUATE COURSES:] </mark>The College of Liberal Arts and Sciences (CLAS) is the home of this course, and CLAS governs the add and drop deadlines, academic misconduct policies, and other policies and procedures.
-Other UI colleges may have different policies.
-<mark>[FOR GRADUATE COURSES:] </mark>The College of Liberal Arts and Sciences (CLAS) is the home of this course, and CLAS governs the policies and procedures for its courses.
-Graduate students, however, must adhere to the [academic deadlines set by the Graduate College](https://grad.uiowa.edu/academics/deadlines).
+This is a [URL link](https://www.google.com).

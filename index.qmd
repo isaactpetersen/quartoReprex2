@@ -1,5 +1,7 @@
 ---
-title: "Wiki for PSY:COURSE NUMBER – COURSE NAME (SEMESTER YEAR)"
+title: "Quarto Reprex"
 ---
 
-The Class Wiki includes the [course syllabus](syllabus.qmd) and miscellaneous resources.
+This is a [cross-reference link](syllabus.qmd).
+
+This is a [URL link](https://www.google.com).

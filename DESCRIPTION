@@ -1,5 +1,5 @@
 Package: placeholder
-Title: CourseWikiTemplate
+Title: QuartoReprex
 Version: 1.0.0
 Imports:
   quarto,

@@ -27,7 +27,6 @@ format:
   html:
     highlight-style: a11y
     theme: cosmo
-    css: ["styles.css", "includes/custom.css", "font/css/roboto.css"]
     toc: true
     toc-depth: 5
     toc-title: Contents
