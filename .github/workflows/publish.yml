@@ -56,12 +56,12 @@ jobs:
             underscore \
             xcolor \
             csquotes
-    
-      - name: Quarto check
-        run: quarto check
       
       - name: Install package dependencies
         uses: r-lib/actions/setup-r-dependencies@v2
+
+      - name: Quarto check
+        run: quarto check
 
       - name: Render & Publish
         uses: quarto-dev/quarto-actions/publish@v2
