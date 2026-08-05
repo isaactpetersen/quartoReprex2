@@ -51,7 +51,7 @@ format:
     date-meta: today
   pdf:
     #keep-tex: true
-    license: false
+    #license: false
     pdf-standard: ua-2
 
 lightbox: 
