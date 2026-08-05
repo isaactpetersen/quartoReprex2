@@ -17,13 +17,6 @@ jobs:
     
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
-
-      #- name: Setup Python and Jupyter
-      #  uses: actions/setup-python@v6
-      #  with:
-      #    python-version: '3.x' # Version range or exact version of a Python version to use, using SemVer's version range syntax
-      #- run: pip install jupyter
-      #- run: pip install -r requirements.txt
     
       - name: Install R
         uses: r-lib/actions/setup-r@v2
@@ -32,7 +25,7 @@ jobs:
         run: Rscript -e 'sessionInfo()'
     
       - name: Setup pandoc
-        uses: r-lib/actions/setup-pandoc@v2 # update
+        uses: r-lib/actions/setup-pandoc@v2
     
       - name: Install system dependencies
         if: runner.os == 'Linux'
@@ -47,7 +40,7 @@ jobs:
         run: quarto install verapdf
         
       - name: Install tinytex
-        uses: r-lib/actions/setup-tinytex@v2 # update
+        uses: r-lib/actions/setup-tinytex@v2
         
       - name: Install additional LaTeX packages
         run: |
@@ -67,12 +60,7 @@ jobs:
             csquotes
     
       - name: Install package dependencies
-        uses: r-lib/actions/setup-r-dependencies@v2 # update
-    
-      #- name: Install remote packages
-      #  run: |
-      #   Rscript -e "install.packages('rstan', repos = c('https://mc-stan.org/r-packages/', getOption('repos')))"
-      #  # Rscript -e 'remotes::install_github("DevPsyLab/petersenlab")'
+        uses: r-lib/actions/setup-r-dependencies@v2
 
       - name: Render & Publish
         uses: quarto-dev/quarto-actions/publish@v2
@@ -86,8 +74,8 @@ jobs:
           find . -type f
           
       - name: Archive production artifacts
-        if: always() # ensures it runs even if previous steps fail
-        uses: actions/upload-artifact@v7 # update
+        if: always()
+        uses: actions/upload-artifact@v7
         with:
           name: site
           path: _site/
