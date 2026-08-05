@@ -25,35 +25,10 @@ website:
 
 format:
   html:
-    highlight-style: a11y
-    theme: cosmo
     toc: true
-    toc-depth: 5
-    toc-title: Contents
-    toc-location: right
-    execute:
-      error: true
-      warning: false
-    code-link: true
-    number-sections: true
-    code-fold: show
-    df-print: paged
-    code-tools:
-      source: true
-      toggle: true
-    link-external-newwindow: true
-    #include-in-header:
-    #  - "includes/google_analytics.html"
-    #include-after-body:
-    #  - "includes/footer.html"
-    license: CC BY
-    author-meta: "Isaac T. Petersen"
-    date-meta: today
   pdf:
-    #keep-tex: true
-    #license: false
-    #pdf-standard: ua-2
     toc: false
+    pdf-standard: ua-2
 
 lightbox: 
   match: auto
