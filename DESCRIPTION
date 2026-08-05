@@ -2,4 +2,6 @@ Package: placeholder
 Title: QuartoReprex
 Version: 1.0.0
 Imports:
-  quarto
+  quarto,
+  knitr,
+  rmarkdown
